@@ -87,7 +87,6 @@ print(X1.columns)
 print(X2.columns)
 print(X3.columns)
 
-
 print(X.shape)
 print(X0.shape)
 print(X1.shape)
